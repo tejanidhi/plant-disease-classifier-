@@ -64,11 +64,10 @@ Frontend will open at [`http://localhost:8501`](http://localhost:8501).
 project/
 ├── backend/
 │   ├── main.py
-│   ├── models/
-│   └── .env
+│   └── requirements.txt
 ├── frontend/
 │   └── app.py
-├── requirements.txt
+├── .env
 └── README.md
 ```
 
