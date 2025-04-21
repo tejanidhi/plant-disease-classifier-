@@ -8,8 +8,8 @@ A simple application to upload plant images, detect diseases using machine learn
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/tejanidhi/plant-disease-classifier-.git
+cd plant-disease-classifier
 ```
 
 ### Step 2: Setup Virtual Environment
