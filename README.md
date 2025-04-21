@@ -125,9 +125,3 @@ pip install python-multipart
 
 **Frontend not connecting to backend:**
 - Ensure backend is running at [`http://localhost:8000`](http://localhost:8000).
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
