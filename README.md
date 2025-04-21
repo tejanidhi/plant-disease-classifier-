@@ -18,13 +18,13 @@ Create and activate a virtual environment:
 
 On Windows:
 ```bash
-python -m venv venv
-.\venv\Scripts\activate
+python -m venv env
+env\Scripts\activate
 ```
 
 On Mac/Linux:
 ```bash
-python3 -m venv venv
+python3 -m venv env
 source venv/bin/activate
 ```
 
